@@ -30,6 +30,17 @@ export const skills = [
 
 export const projects = [
   {
+    id: "zelo",
+    name: "Zelo — Finanças pessoais",
+    period: "2026",
+    stack: ["React", "TypeScript", "Vite", "Tailwind CSS", "SQLite / Cloudflare D1", "ExcelJS"],
+    description:
+      "MVP de controle financeiro pessoal com dashboard, cadastro de receitas e despesas, acompanhamento de parcelas, metas e limites por categoria. Interface responsiva com modo demonstração e exportação de extratos para Excel, CSV e Power BI.",
+    href: "https://github.com/ocaiofirmino/zelo-financas",
+    demoUrl: "https://zelo-financas.vercel.app",
+    status: "Publicado · MVP v0.1.0",
+  },
+  {
     id: "fitmanager",
     name: "FitManager",
     period: "2026",
