@@ -37,6 +37,16 @@ export default function Projects() {
                   </span>
                 ))}
               </div>
+              {p.demoUrl && (
+                <a
+                  href={p.demoUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-block font-mono text-sm text-ink mt-5 mr-5 hover:text-accent transition-colors underline decoration-line underline-offset-4 hover:decoration-accent"
+                >
+                  Ver projeto
+                </a>
+              )}
               {p.href && (
                 <a
                   href={p.href}
