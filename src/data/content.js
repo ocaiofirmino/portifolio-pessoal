@@ -137,6 +137,6 @@ export const education = [
 export const courses = [
   { name: "Desenvolvedor Full Stack Júnior", org: "+praTi e Codifica", status: "Cursando" },
   { name: "Crie um site simples usando HTML, CSS e JavaScript", org: "Fundação Bradesco", status: "Concluído" },
-  { name: "Excel Básico", org: "Fundação Bradesco", status: "Concluído" },
+  { name: "Excel Intermediário", org: "Fundação Bradesco", status: "Concluído" },
   { name: "Montagem e Manutenção de Computadores", org: "MicroRio", status: "Concluído" },
 ];
