@@ -20,7 +20,7 @@ export const skills = [
   },
   {
     group: "Sistemas & ferramentas",
-    items: ["Linux (Arch, NixOS, Fedora, Ubuntu)", "Windows", "VS Code", "XAMPP", "Git & GitHub"],
+    items: ["Linux (Arch, NixOS, Fedora, Ubuntu)", "Windows", "VS Code", "XAMPP", "Git & GitHub", "MySQL", "PostgreSQL"],
   },
   {
     group: "Competências",
